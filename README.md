@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **deltadv/deltadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 👋
+
+Perkenalkan nama saya **Deva Raja**.\
+Saya adalah seorang **Mahasiswa S1 Rekayasa Perangkat Lunak** di **Telkom University**.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/deva-raja/)ku ya.
