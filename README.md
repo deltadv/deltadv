@@ -21,7 +21,6 @@ I'm a **Software Engineering Student** at **Telkom University**.
 - 🌱 I’m currently learning Cloud Computing.
 - 📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/deva-raja/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lucario and Empoleon are my favorite Pokémon.
 
 ## Github Stats:
 ![Deva Raja's github stats](https://github-readme-stats.vercel.app/api?username=deltadv&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
